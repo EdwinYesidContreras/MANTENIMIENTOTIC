@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\obj\Debug\netstandard2.1\Dominio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\bin\Debug\netstandard2.1\Dominio.deps.json
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\obj\Debug\netstandard2.1\Dominio.dll
+C:\Users\User\Desktop\Programacion\CICLO 3\MANTENIMIENTOTIC\Dominio\obj\Debug\netstandard2.1\Dominio.pdb
